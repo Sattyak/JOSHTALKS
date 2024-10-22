@@ -14,7 +14,6 @@ This API allows for the management of tasks and users, enabling functionalities 
   - [6. Get All Users](#6-get-all-users)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Installation
 
