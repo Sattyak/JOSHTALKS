@@ -1,0 +1,16 @@
+# Ignore Python virtual environment
+venv/
+  
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore node_modules folder for Node.js projects
+node_modules/
+
+# Ignore log files
+*.log
+logs/
+
+# Ignore specific config files
+.env
