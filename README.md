@@ -38,7 +38,7 @@ This API allows for the management of tasks and users, enabling functionalities 
 5. **Run the development server**:
    python manage.py runserver
 
-The API will be accessible at http://127.0.0.1:8000/api/`
+The API will be accessible at http://127.0.0.1:8000/api/
 
 API Endpoints: 
 
