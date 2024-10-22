@@ -41,6 +41,7 @@ This API allows for the management of tasks and users, enabling functionalities 
 The API will be accessible at http://127.0.0.1:8000/api/`
 
 API Endpoints: 
+
     1. Create a User
     Endpoint: POST /users/
     Request Body:
